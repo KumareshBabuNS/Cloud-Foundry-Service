@@ -3,5 +3,3 @@ applications:
   memory: 512M
   host: citytemperatures
   domain: local.pcfdev.io
-  services:
-  - localdb
